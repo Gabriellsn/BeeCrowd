@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/programaçao/estudos/c/beecrowd",
-      "program": "d:/programaçao/estudos/c/beecrowd/build/Debug/outDebug",
+      "cwd": "d:/programaçao/estudos/c/beecrowd/estruturaDeDados",
+      "program": "d:/programaçao/estudos/c/beecrowd/estruturaDeDados/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
